@@ -14,11 +14,11 @@ const Navigation = () => {
 
           {/* Navigation Links */}
           <div className="hidden md:flex items-center gap-8">
+            <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors">
+              Home
+            </Link>
             <Link to="/services" className="text-muted-foreground hover:text-foreground transition-colors">
               Services
-            </Link>
-            <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors">
-              About
             </Link>
             <Link to="/contact" className="text-muted-foreground hover:text-foreground transition-colors">
               Contact
