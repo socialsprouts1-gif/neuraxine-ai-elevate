@@ -19,6 +19,7 @@ const Index = () => {
           <p>© 2025 Neuraxine. Empowering businesses through intelligent automation.</p>
         </div>
       </footer>
+      <elevenlabs-convai agent-id="agent_6801k7n0yq1hezmrs4jg7m0qjq74"></elevenlabs-convai>
     </div>
   );
 };
