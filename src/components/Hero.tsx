@@ -37,7 +37,7 @@ const Hero = () => {
 
           {/* Heading */}
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight">
-            <span className="text-foreground">testing </span>
+            <span className="text-foreground">Transform Your Business with</span>
             <br />
             <span className="bg-gradient-to-r from-primary via-accent to-primary-glow bg-clip-text text-transparent animate-gradient">
               Intelligent Automation
